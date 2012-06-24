@@ -1,6 +1,8 @@
 Biclops - A Stereoscopic Display Driver by Emerson v0.1
 -------------------------------------------------------
 
+*NOTE: Binaries are available under the "Downloads" button*
+
 Usage Notes:
 * This is a DirectX 9 wrapper DLL. When you build it, it will create a D3D9.dll that you place in the folder alongside your target application's binaries. You also need to put the Scene.fx file there, for barrel warping.
 * I used Microsoft Visual C++ 2010 Express Edition to compile this.
