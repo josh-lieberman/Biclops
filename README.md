@@ -3,6 +3,8 @@ Biclops - A Stereoscopic Display Driver by Emerson v0.1
 
 *NOTE: Binaries are available under the "Downloads" button*
 
+*WARNING: This uses very similar techniques to intercept the DirectX layer as many common online cheats. I'm not doing anything special to hide myself from VAC or PB or GameGuard, so it's entirely possible that those systems would flag this as a cheat. Use with multiplayer games at your own risk!*
+
 Usage Notes:
 * This is a DirectX 9 wrapper DLL. When you build it, it will create a D3D9.dll that you place in the folder alongside your target application's binaries. You also need to put the Scene.fx file there, for barrel warping.
 * I used Microsoft Visual C++ 2010 Express Edition to compile this.
